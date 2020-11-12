@@ -1,0 +1,6 @@
+The application is a Maven project based on the SpringBoot framework.
+
+The application retrieves the list of repositories indicated by name name. After downloading the list, the application counts the contributions. The list is then sorted based on the number of contributions and displayed.
+
+
+Enjoy reading the code!
